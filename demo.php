@@ -1,6 +1,6 @@
 <?php
 
-echo 'this is test git add commanT';
+echo 'this is test git add commant';
 
 
 
